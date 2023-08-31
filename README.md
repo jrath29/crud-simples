@@ -12,4 +12,5 @@ Projeto de CRUD (Adicionar, Ler, Atualizar e Deletar) para controlar usuários e
   <li>MySQL</li>
 </ul>
 
-Créditos: https://www.youtube.com/watch?v=voXTVTW73E8&t=1501s
+## Créditos
+Projeto feito com instruções de vídeo do canal Will Dev: https://www.youtube.com/watch?v=voXTVTW73E8&t=1501s
