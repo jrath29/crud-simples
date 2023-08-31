@@ -12,8 +12,6 @@
   <li>MySQL</li>
 </ul>
 
-<br>
-
-## Créditos
+## 👨‍💻 Créditos
 Projeto feito com instruções de vídeo do canal Will Dev: https://www.youtube.com/watch?v=voXTVTW73E8&t=1501s
 </div>
